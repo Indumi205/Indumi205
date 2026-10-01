@@ -41,7 +41,7 @@ A simple and clean Health and Wellness mobile application built using Android St
 CineMagic is a fully interactive, front-end web application that simulates an online cinema ticketing system. It allows users to browse currently showing movies, select seats in real time, and book tickets.
 
 ### 🎨 StudyCart 
-StudyCart-Stationery E-commerce for Sri Lankan families.Pure HTML, CSS & JS. Live search,editable cart,3-step card checkout,island-wide delivery.
+StudyCart-Stationery E-commerce for Sri Lankan families. Pure HTML, CSS & JS. Live search, editable cart, 3-step card checkout, island-wide delivery.
 Best for kids, given with love 💜
 
 ---
