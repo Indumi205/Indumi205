@@ -60,16 +60,16 @@ Exploring interfaces, prototypes, and user journeys to create products that are 
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/indumini-indrachapa-wijesinghe-364116366" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:wijesingheinduminiindrachapa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Indumini Indrachapa Wijesinghe](https://www.linkedin.com/in/indumini-indrachapa-wijesinghe-364116366)
+- Email: [wijesingheinduminiindrachapa@gmail.com](mailto:wijesingheinduminiindrachapa@gmail.com)
 
 ---
 
