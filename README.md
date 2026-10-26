@@ -46,7 +46,7 @@ I enjoy exploring the intersection of design and engineering, especially in web 
 
 ## Current Projects
 
-### 🚀 UrbanEats Cloud Kitchen Platform
+### 🍽️ UrbanEats Cloud Kitchen Platform
 A project focused on building a modern cloud kitchen platform that supports online ordering, kitchen operations, and user-friendly digital experiences.
 
 ### 📱 Mobile & Web Applications
